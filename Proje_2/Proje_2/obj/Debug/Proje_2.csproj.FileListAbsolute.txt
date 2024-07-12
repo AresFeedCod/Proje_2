@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Proje_2\Proje_2\bin\Debug\Proje_2.exe.config
+C:\Users\HP\source\repos\Proje_2\Proje_2\bin\Debug\Proje_2.exe
+C:\Users\HP\source\repos\Proje_2\Proje_2\bin\Debug\Proje_2.pdb
+C:\Users\HP\source\repos\Proje_2\Proje_2\obj\Debug\Proje_2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Proje_2\Proje_2\obj\Debug\Proje_2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Proje_2\Proje_2\obj\Debug\Proje_2.exe
+C:\Users\HP\source\repos\Proje_2\Proje_2\obj\Debug\Proje_2.pdb
